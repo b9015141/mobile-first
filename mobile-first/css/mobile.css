@@ -1,0 +1,31 @@
+body {
+    font-family: "Open Sans", helvetica, arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   }
+   .container {
+    width: 100%;
+    min-width: 320px;
+   }
+
+   .mainNav ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+   }
+
+   .mainNav ul li {
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+   }
+
+   .mainNav ul li a {
+    display: inline-block;
+    width: 100%;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 0;
+   }
+   
+
